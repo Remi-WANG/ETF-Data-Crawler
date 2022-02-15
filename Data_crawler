@@ -1,0 +1,10 @@
+## 0. Import the packages needed
+
+import json
+import requests
+import matplotlib.pyplot as plt
+import pandas as pd
+import time
+import re
+import numpy as np
+
